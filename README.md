@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=238F06&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;Machine+Learning" alt="Typing SVG" /></a>
 </p> 
 
-## My Skill:
+## My Skills:
 🌱 I’m currently learning **WEB Development Full-Stack**  
 🔭 I've keen interest in AI and Machine Learning. So,I'm learning **Python**
 
@@ -23,6 +23,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </p>
 
+## Connect with me:
+
+<p align="left">
+	<a href="mailto:truongbui517@gmal.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a>
+	<a href="https://www.facebook.com/nhattruong.bui.14/" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/facebook-circled.png"/></a>
+	<a href = 'https://www.github.com/Nhattruong1510'><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+</p>
 
 ## My GitHub Stats:
 
@@ -39,14 +46,4 @@
     </td>
   </tr>
 </table>
-
-## How to reach me:
-
-<p align="center">
-	<a href="mailto:truongbui517@gmal.com" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/mail.png"/></a>
-	<a href="https://github.com/Nhattruong1510" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
-	<a href="https://www.facebook.com/nhattruong.bui.14/" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/facebook-circled.png"/></a>
-</p>
-
-
 
